@@ -1,1 +1,3 @@
 Day 1: Learned Git basics
+
+Practiced branches in GitHub
